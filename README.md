@@ -1,1 +1,1 @@
-Some micropython projects with the rasberry pi pico or simelar microcontrollers
+Some micropython projects with the rasberry pi pico or simelar microcontrollers.
